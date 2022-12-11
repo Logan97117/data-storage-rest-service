@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZW8OJ1XGo9Unq5M7ZH5XoloI1aOQ0FCJeK0Usvf9n1+xA0P6RzeL7du1okvfWjDZwD7CyaZBX0irMDzknlPNXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pprateek\\dev\\asp.net\\DataStorageAPI\\DataStorageAPI\\DataStorageAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pprateek\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\pprateek\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pprateek\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\pprateek\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\pprateek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\pprateek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
